@@ -1,0 +1,3 @@
+Define two variables called `firstName` and `lastName` and assign them string values corresponding to your first and last name. Then print the full name to the console — like we did in yesterday's exercise 1.2.3 — but using the variable names instead of the actual string.
+
+For example, if the value "Bill" is bound to the variable `firstName` and "Murray" is the value of `lastName,` then the output would read: Bill Murray.
